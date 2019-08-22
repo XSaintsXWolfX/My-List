@@ -12,87 +12,87 @@
 	},
 	{
 		"abr": "clearweather",
-		"price": 100,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rain",
-		"price": 350,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1400,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
-		"price": 200,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 300,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 300,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowgentle",
-		"price": 350,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fog",
-		"price": 150,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "heatwave",
-		"price": 800,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 300,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 700,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 4200,
+		"price": 0,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3000,
+		"price": 0,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 0,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
-		"price": 150,
+		"price": 0,
 		"karmatype": "Neutral"
 	},
 	{
