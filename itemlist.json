@@ -745,12 +745,6 @@
 		"defname": "Leather_Bird"
 	},
 	{
-		"abr": "birdskin",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Bird"
-	},
-	{
 		"abr": "bison",
 		"price": 500,
 		"category": "Animal",
@@ -1118,7 +1112,7 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 12,
+		"price": 10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
@@ -1909,12 +1903,6 @@
 		"defname": "Shell_Firefoam"
 	},
 	{
-		"abr": "firewood",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "Owl_Firewood"
-	},
-	{
 		"abr": "flakhelmet",
 		"price": 350,
 		"category": "Headgear",
@@ -2257,12 +2245,6 @@
 		"defname": "GreenCloth"
 	},
 	{
-		"abr": "greenlumber",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "Owl_GreenLumber"
-	},
-	{
 		"abr": "grenadelauncher",
 		"price": 1000,
 		"category": "Ranged weapons",
@@ -2437,12 +2419,6 @@
 		"defname": "Leather_Bluefur"
 	},
 	{
-		"abr": "heavypelt",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_HeavyPelt"
-	},
-	{
 		"abr": "heavysmg",
 		"price": 400,
 		"category": "Ranged weapons",
@@ -2471,12 +2447,6 @@
 		"price": -10,
 		"category": "Raw fish",
 		"defname": "VCEF_RawHerring"
-	},
-	{
-		"abr": "hide",
-		"price": 5,
-		"category": "Hides",
-		"defname": "Hide_Plain"
 	},
 	{
 		"abr": "high-explosiveshell",
@@ -2561,12 +2531,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
-	},
-	{
-		"abr": "humanflesh",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Human"
 	},
 	{
 		"abr": "humanleather",
@@ -2723,12 +2687,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "Facility_IVDrip"
-	},
-	{
-		"abr": "ironore",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "Owl_Iron"
 	},
 	{
 		"abr": "ironwood",
@@ -3877,60 +3835,6 @@
 		"defname": "ShowerAdvStuff"
 	},
 	{
-		"abr": "preparedbirdskin",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Bird"
-	},
-	{
-		"abr": "preparedheavypelt",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_HeavyPelt"
-	},
-	{
-		"abr": "preparedhide",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Plain"
-	},
-	{
-		"abr": "preparedhumanflesh",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Human"
-	},
-	{
-		"abr": "preparedscalehide",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Scale"
-	},
-	{
-		"abr": "preparedsoftpelt",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_SoftPelt"
-	},
-	{
-		"abr": "preparedthickhide",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Thick"
-	},
-	{
-		"abr": "preparedthrumbopelt",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Thrumbo"
-	},
-	{
-		"abr": "preparedwhitefoxfur",
-		"price": -10,
-		"category": "Prepared hides",
-		"defname": "Prepared_Hide_Whitefox"
-	},
-	{
 		"abr": "prostheticarm",
 		"price": 400,
 		"category": "Prosthetic",
@@ -4115,12 +4019,6 @@
 		"price": 5,
 		"category": "Meat",
 		"defname": "Meat_Cow"
-	},
-	{
-		"abr": "rawhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Rawhide"
 	},
 	{
 		"abr": "reconarmor",
@@ -4367,12 +4265,6 @@
 		"price": 450,
 		"category": "Ranged weapons",
 		"defname": "VWE_SawedOffShotgun"
-	},
-	{
-		"abr": "scalehide",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Scale"
 	},
 	{
 		"abr": "scaleleather",
@@ -4747,12 +4639,6 @@
 		"defname": "Leather_Light"
 	},
 	{
-		"abr": "softpelt",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_SoftPelt"
-	},
-	{
 		"abr": "spear",
 		"price": 200,
 		"category": "Melee weapons",
@@ -5089,12 +4975,6 @@
 		"defname": "TableLoom"
 	},
 	{
-		"abr": "tanningliquor",
-		"price": 5,
-		"category": "Manufactured",
-		"defname": "Owl_TanningLiquor"
-	},
-	{
 		"abr": "tazingturret",
 		"price": -10,
 		"category": "Security",
@@ -5137,12 +5017,6 @@
 		"defname": "Thermostat"
 	},
 	{
-		"abr": "thickhide",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Thick"
-	},
-	{
 		"abr": "thickleather",
 		"price": -10,
 		"category": "Leathers",
@@ -5171,12 +5045,6 @@
 		"price": -10,
 		"category": "Items",
 		"defname": "ThrumboHorn"
-	},
-	{
-		"abr": "thrumbopelt",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Thrumbo"
 	},
 	{
 		"abr": "timberwolf",
@@ -5515,12 +5383,6 @@
 		"defname": "Leather_Whitefox"
 	},
 	{
-		"abr": "whitefoxhide",
-		"price": -10,
-		"category": "Hides",
-		"defname": "Hide_Whitefox"
-	},
-	{
 		"abr": "wildboar",
 		"price": 250,
 		"category": "Animal",
@@ -5537,12 +5399,6 @@
 		"price": -10,
 		"category": "Alcohol precursor",
 		"defname": "VG_GrapeMust"
-	},
-	{
-		"abr": "woodlog",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "Owl_WoodLog"
 	},
 	{
 		"abr": "woolcloth",
@@ -5597,7 +5453,67 @@
 		"price": 75,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "camelhide",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "chinchillafur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "dogleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "elephantleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "foxfur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "heavyfur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "pantherafur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "pigskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "rhinocerosleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "wolfskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Wolf"
 	}
 	],
-	"total": 933
+	"total": 943
 }
